@@ -1,0 +1,373 @@
+﻿TextTest
+-------- day 0 --------
+name, sellIn, quality
+Vest, 10, 20
+Aged Brie, 2, 0
+Juice, 5, 7
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, 15, 20
+Backstage passes, 10, 49
+Backstage passes, 5, 49
+Bio Cake, 3, 6
+
+-------- day 1 --------
+name, sellIn, quality
+Vest, 9, 19
+Aged Brie, 1, 1
+Juice, 4, 6
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, 14, 21
+Backstage passes, 9, 50
+Backstage passes, 4, 50
+Bio Cake, 2, 5
+
+-------- day 2 --------
+name, sellIn, quality
+Vest, 8, 18
+Aged Brie, 0, 2
+Juice, 3, 5
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, 13, 22
+Backstage passes, 8, 50
+Backstage passes, 3, 50
+Bio Cake, 1, 4
+
+-------- day 3 --------
+name, sellIn, quality
+Vest, 7, 17
+Aged Brie, -1, 4
+Juice, 2, 4
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, 12, 23
+Backstage passes, 7, 50
+Backstage passes, 2, 50
+Bio Cake, 0, 3
+
+-------- day 4 --------
+name, sellIn, quality
+Vest, 6, 16
+Aged Brie, -2, 6
+Juice, 1, 3
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, 11, 24
+Backstage passes, 6, 50
+Backstage passes, 1, 50
+Bio Cake, -1, 1
+
+-------- day 5 --------
+name, sellIn, quality
+Vest, 5, 15
+Aged Brie, -3, 8
+Juice, 0, 2
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, 10, 25
+Backstage passes, 5, 50
+Backstage passes, 0, 50
+Bio Cake, -2, 0
+
+-------- day 6 --------
+name, sellIn, quality
+Vest, 4, 14
+Aged Brie, -4, 10
+Juice, -1, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, 9, 27
+Backstage passes, 4, 50
+Backstage passes, -1, 0
+Bio Cake, -3, 0
+
+-------- day 7 --------
+name, sellIn, quality
+Vest, 3, 13
+Aged Brie, -5, 12
+Juice, -2, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, 8, 29
+Backstage passes, 3, 50
+Backstage passes, -2, 0
+Bio Cake, -4, 0
+
+-------- day 8 --------
+name, sellIn, quality
+Vest, 2, 12
+Aged Brie, -6, 14
+Juice, -3, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, 7, 31
+Backstage passes, 2, 50
+Backstage passes, -3, 0
+Bio Cake, -5, 0
+
+-------- day 9 --------
+name, sellIn, quality
+Vest, 1, 11
+Aged Brie, -7, 16
+Juice, -4, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, 6, 33
+Backstage passes, 1, 50
+Backstage passes, -4, 0
+Bio Cake, -6, 0
+
+-------- day 10 --------
+name, sellIn, quality
+Vest, 0, 10
+Aged Brie, -8, 18
+Juice, -5, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, 5, 35
+Backstage passes, 0, 50
+Backstage passes, -5, 0
+Bio Cake, -7, 0
+
+-------- day 11 --------
+name, sellIn, quality
+Vest, -1, 8
+Aged Brie, -9, 20
+Juice, -6, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, 4, 38
+Backstage passes, -1, 0
+Backstage passes, -6, 0
+Bio Cake, -8, 0
+
+-------- day 12 --------
+name, sellIn, quality
+Vest, -2, 6
+Aged Brie, -10, 22
+Juice, -7, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, 3, 41
+Backstage passes, -2, 0
+Backstage passes, -7, 0
+Bio Cake, -9, 0
+
+-------- day 13 --------
+name, sellIn, quality
+Vest, -3, 4
+Aged Brie, -11, 24
+Juice, -8, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, 2, 44
+Backstage passes, -3, 0
+Backstage passes, -8, 0
+Bio Cake, -10, 0
+
+-------- day 14 --------
+name, sellIn, quality
+Vest, -4, 2
+Aged Brie, -12, 26
+Juice, -9, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, 1, 47
+Backstage passes, -4, 0
+Backstage passes, -9, 0
+Bio Cake, -11, 0
+
+-------- day 15 --------
+name, sellIn, quality
+Vest, -5, 0
+Aged Brie, -13, 28
+Juice, -10, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, 0, 50
+Backstage passes, -5, 0
+Backstage passes, -10, 0
+Bio Cake, -12, 0
+
+-------- day 16 --------
+name, sellIn, quality
+Vest, -6, 0
+Aged Brie, -14, 30
+Juice, -11, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, -1, 0
+Backstage passes, -6, 0
+Backstage passes, -11, 0
+Bio Cake, -13, 0
+
+-------- day 17 --------
+name, sellIn, quality
+Vest, -7, 0
+Aged Brie, -15, 32
+Juice, -12, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, -2, 0
+Backstage passes, -7, 0
+Backstage passes, -12, 0
+Bio Cake, -14, 0
+
+-------- day 18 --------
+name, sellIn, quality
+Vest, -8, 0
+Aged Brie, -16, 34
+Juice, -13, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, -3, 0
+Backstage passes, -8, 0
+Backstage passes, -13, 0
+Bio Cake, -15, 0
+
+-------- day 19 --------
+name, sellIn, quality
+Vest, -9, 0
+Aged Brie, -17, 36
+Juice, -14, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, -4, 0
+Backstage passes, -9, 0
+Backstage passes, -14, 0
+Bio Cake, -16, 0
+
+-------- day 20 --------
+name, sellIn, quality
+Vest, -10, 0
+Aged Brie, -18, 38
+Juice, -15, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, -5, 0
+Backstage passes, -10, 0
+Backstage passes, -15, 0
+Bio Cake, -17, 0
+
+-------- day 21 --------
+name, sellIn, quality
+Vest, -11, 0
+Aged Brie, -19, 40
+Juice, -16, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, -6, 0
+Backstage passes, -11, 0
+Backstage passes, -16, 0
+Bio Cake, -18, 0
+
+-------- day 22 --------
+name, sellIn, quality
+Vest, -12, 0
+Aged Brie, -20, 42
+Juice, -17, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, -7, 0
+Backstage passes, -12, 0
+Backstage passes, -17, 0
+Bio Cake, -19, 0
+
+-------- day 23 --------
+name, sellIn, quality
+Vest, -13, 0
+Aged Brie, -21, 44
+Juice, -18, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, -8, 0
+Backstage passes, -13, 0
+Backstage passes, -18, 0
+Bio Cake, -20, 0
+
+-------- day 24 --------
+name, sellIn, quality
+Vest, -14, 0
+Aged Brie, -22, 46
+Juice, -19, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, -9, 0
+Backstage passes, -14, 0
+Backstage passes, -19, 0
+Bio Cake, -21, 0
+
+-------- day 25 --------
+name, sellIn, quality
+Vest, -15, 0
+Aged Brie, -23, 48
+Juice, -20, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, -10, 0
+Backstage passes, -15, 0
+Backstage passes, -20, 0
+Bio Cake, -22, 0
+
+-------- day 26 --------
+name, sellIn, quality
+Vest, -16, 0
+Aged Brie, -24, 50
+Juice, -21, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, -11, 0
+Backstage passes, -16, 0
+Backstage passes, -21, 0
+Bio Cake, -23, 0
+
+-------- day 27 --------
+name, sellIn, quality
+Vest, -17, 0
+Aged Brie, -25, 50
+Juice, -22, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, -12, 0
+Backstage passes, -17, 0
+Backstage passes, -22, 0
+Bio Cake, -24, 0
+
+-------- day 28 --------
+name, sellIn, quality
+Vest, -18, 0
+Aged Brie, -26, 50
+Juice, -23, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, -13, 0
+Backstage passes, -18, 0
+Backstage passes, -23, 0
+Bio Cake, -25, 0
+
+-------- day 29 --------
+name, sellIn, quality
+Vest, -19, 0
+Aged Brie, -27, 50
+Juice, -24, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, -14, 0
+Backstage passes, -19, 0
+Backstage passes, -24, 0
+Bio Cake, -26, 0
+
+-------- day 30 --------
+name, sellIn, quality
+Vest, -20, 0
+Aged Brie, -28, 50
+Juice, -25, 0
+Diamond, 0, 80
+Diamond, -1, 80
+Backstage passes, -15, 0
+Backstage passes, -20, 0
+Backstage passes, -25, 0
+Bio Cake, -27, 0
+
